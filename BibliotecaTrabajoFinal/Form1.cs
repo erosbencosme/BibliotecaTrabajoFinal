@@ -33,8 +33,8 @@ namespace BibliotecaTrabajoFinal
                 textBox1.AppendText(registros[0].ToString());
       
             }
-           
-           
+            //hola
+
 
             MessageBox.Show("Se cerró la conexión.");
 
